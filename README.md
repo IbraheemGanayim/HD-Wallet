@@ -20,7 +20,7 @@ This HD Wallet is a secure and efficient tool for managing Ethereum transactions
 
 1. Clone the repository:
    ```
-   git clone https://github.com/IbraheemGanayim/HD-Wallet
+   git clone https://github.com/IbraheemGanayim/HD-Wallet.git
    ```
 2. Open the `Login.html` file in a web browser to start using the application.
 
